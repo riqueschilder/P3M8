@@ -1,4 +1,4 @@
-# provaM8
+# P3M8
 ## Como Usar 
 Rode o arquivo .py e passe os seguintes comandos ou alternativos com as palavras essenciais para o entendimento do comando:
 "como atualizar meu cartão de crédito"
